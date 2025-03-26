@@ -1,1 +1,25 @@
+# Web framework
+fastapi==0.75.0
 
+# ASGI server
+uvicorn==0.17.6
+
+# Deep learning framework
+tensorflow==2.10.0
+
+# Data analysis and manipulation
+numpy==1.22.1
+pandas==1.4.2
+
+# Data visualization
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# Image processing
+Pillow==9.1.0
+
+# Jupyter Notebook (if applicable)
+jupyter==1.0.0
+
+# Additional Libraries for testing and development
+pytest==7.1.0
